@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<img align="right" width="400" height="400"
+src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+# Welcome!
+## I'm Paulo! Let me present a little about myself :
+
 <!--
 **paulorosado07/paulorosado07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
