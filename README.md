@@ -1,5 +1,5 @@
 
-## 🔥 **Hello! I'm Paulo Rosado**
+## 👋 **Hello! I'm Paulo Rosado**
 
 Since 2019, I’ve been on a mission to use technology to **free people from tasks that steal their time**.
 I’m a **full-stack developer** specialized in **Python**, and I believe that every line of code can open doors for someone to live better.
