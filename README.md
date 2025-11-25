@@ -4,7 +4,7 @@
 Since 2019, I’ve been on a mission to use technology to **free people from tasks that steal their time**.
 I’m a **full-stack developer** specialized in **Python**, and I believe that every line of code can open doors for someone to live better.
 
----
+
 
 ## 🚀 **My vision**
 
@@ -22,7 +22,7 @@ I don’t sell code.
 **I give people back their time.**
 And time is the most valuable asset we have.
 
----
+
 
 ## 🧠 **What drives me**
 
@@ -35,7 +35,7 @@ I’m driven by:
 * building solutions that generate real impact
 * constant evolution, because the world never stops
 
----
+
 
 ## 🎞️ **Beyond the code**
 
